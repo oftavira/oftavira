@@ -1,4 +1,4 @@
-# PhD. Física. Tratando de crear herramienta para Espectroscopista Raman con enfoque informático
+# PhD. Física. Tratando de crear herramienta para Espectroscopía Raman con enfoque informático
 ![Raman spectrum](raman.jpg)
 
 - 👋 Colaboraciones o presupuestos para proyectos:
