@@ -12,8 +12,7 @@
   * Análisis de contenido/producto/servicios.
   * Monetización
 
-Cualquier solicitud de servicio/colaboración podra ser avalada con un repositorio/presentación de los resultados que se obtendrán, 
-así como del tiempo que demora.
+Cualquier solicitud de servicio/colaboración sera resuelta con un repositorio/presentación de los resultados que se obtendrán, así como del tiempo que demora.
 
 - 👋 Colaboraciones o presupuestos para proyectos:
 - 📫 o.f.tavira@gmail.com
