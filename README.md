@@ -1,4 +1,4 @@
-# Scientist's Specialization Topics
+# Topics
 ***
 <p align="center">
     <img src="cover.png" alt="Cover Image" style="width: 50%; height: auto;">
